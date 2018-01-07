@@ -1,11 +1,15 @@
-#Contatti
+# Contatti
+
 mail : alka@gmx.it
+
 tlf: 3452147242
 
-#Bio
+# Bio
+
 Nato a Genova il 21 Ottobre 1981, di nazionalità Italiana e Danese
 
-#Competenze
+# Competenze
+
 Analisi Statistica (summary statistics, EDA, test d’ipotesi)
 Supervised e Unsupervised Machine Learning (regressione lineare, logistica, NLP classification trees, random forest, clustering)
 R (librerie ggplot2, tidyr, dplyr)
