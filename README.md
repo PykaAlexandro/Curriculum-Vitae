@@ -51,86 +51,56 @@ Lingua Danese
 MOOC in corso:
 
 
-MicroMaster in Data Science
-
-University of California c/o UCSanDiegoX
+MicroMaster in Data Science (University of California c/o UCSanDiegoX)
 
 
-Introduction to Computer Science and Programming Using Python
-
-Massachusetts Institute of Technology c/o MITx
+Introduction to Computer Science and Programming Using Python (Massachusetts Institute of Technology c/o MITx)
 
 
-Statistics and R
-
-HarvardX
+Statistics and R (HarvardX)
 
 
-Intro to Hadoop and MapReduce
-
-Udacity
+Intro to Hadoop and MapReduce (Udacity)
 
 
-Data Wrangling with MongoDB
-
-Udacity
+Data Wrangling with MongoDB (Udacity)
 
 
 MOOC terminati:
 
 
-MicroMaster in Supply Chain Management
-
-Massachusetts Institute of Technology c/o MITx
+MicroMaster in Supply Chain Management (Massachusetts Institute of Technology c/o MITx)
 
 
-Introduction to R for Data Science
-
-Microsoft
+Introduction to R for Data Science (Microsoft)
 
 
-Introduction to Python  for Data Science
-
-Microsoft
+Introduction to Python  for Data Science (Microsoft)
 
 
-The Analytics Edge
-
-Massachusetts Institute of Technology c/o MITx
+The Analytics Edge (Massachusetts Institute of Technology c/o MITx)
 
 
-Intro to Descriptive Statistics
-
-Udacity
+Intro to Descriptive Statistics (Udacity)
 
 
-Intro to Inferential Statistics
-
-Udacity
+Intro to Inferential Statistics (Udacity)
 
 
-Data Analysis with R
-
-Udacity
+Data Analysis with R (Udacity)
 
 
-Educazione Formale:
+Educazione Formale: 
 
 
-Master “Esperto in Logistica” 
-
-2016/2017
-
-Xelon Sinergetica
+Master “Esperto in Logistica” -2016/2017- (Xelon Sinergetica)
 
 
-Laurea in Ingegneria Meccanica (indirizzo Produzione)
-
-2002 / 2007
+Laurea in Ingegneria Meccanica (indirizzo Produzione) -2002/2007- (Università degli Studi di Genova)
 
 Titolo Tesi: "Ottimizzazione del layout di una azienda manifatturiera del settore aeronautico"
 
-Università degli Studi di Genova
+
 
 
 # Esperienze Lavorative professionalizzanti
