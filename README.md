@@ -50,18 +50,132 @@ Lingua Danese
 
 MOOC in corso:
 
+
 MicroMaster in Data Science
 
 University of California c/o UCSanDiegoX
+
 
 Introduction to Computer Science and Programming Using Python
 
 Massachusetts Institute of Technology c/o MITx
 
+
 Statistics and R
 
-HarvardX 
+HarvardX
+
 
 Intro to Hadoop and MapReduce
 
 Udacity
+
+
+Data Wrangling with MongoDB
+
+Udacity
+
+
+MOOC terminati:
+
+
+MicroMaster in Supply Chain Management
+
+Massachusetts Institute of Technology c/o MITx
+
+
+Introduction to R for Data Science
+
+Microsoft
+
+
+Introduction to Python  for Data Science
+
+Microsoft
+
+
+The Analytics Edge
+
+Massachusetts Institute of Technology c/o MITx
+
+
+Intro to Descriptive Statistics
+
+Udacity
+
+
+Intro to Inferential Statistics
+
+Udacity
+
+
+Data Analysis with R
+
+Udacity
+
+
+Educazione Formale:
+
+
+Master “Esperto in Logistica” 
+
+2016/2017
+
+Xelon Sinergetica
+
+
+Laurea in Ingegneria Meccanica (indirizzo Produzione)
+
+2002 / 2007
+
+Titolo Tesi: "Ottimizzazione del layout di una azienda manifatturiera del settore aeronautico"
+
+Università degli Studi di Genova
+
+
+# Esperienze Lavorative professionalizzanti
+
+
+ruolo: Stagista
+
+azienda: Andrea Gallo di Luigi S.r.l.
+
+periodo: aprile - maggio 2017
+
+mansioni svolte:
+
+formalizzazione processi aziendali as is
+
+redazione diagrammi di flusso operativi
+
+quantificazione redditività transazioni
+
+analisi performance servizi terziarizzati
+
+
+ruolo: Operatore Logistico Portuale
+
+azienda: Terminal San Giorgio
+
+periodo: novembre 2013 – agosto 2015
+
+mansioni svolte: 
+
+Esecuzione processo di gate:
+gestione ingressi ed uscite rotabili.
+verifica dati d’imbarco e sbarco.
+conferma prenotazione.
+controllo danni e sigilli.
+
+ruolo: Impiegato
+
+azienda: Schenck Process Italia S.r.l.
+
+periodo: gennaio 2007 – luglio 2009
+
+mansioni svolte: Attività di staff tecnico - organizzativa:
+analisi funzionale di sistema e 
+preparazione manualistica tecnica uso utente.
+analisi competitor aziendali.
+gestione attività promozionale aziendale 
+online e su carta.
